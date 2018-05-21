@@ -51,3 +51,4 @@ src/App.vue
 
 screenshot:
 
+![openvpn](https://github.com/pench3r/Simple-Openvpn-front-display/blob/master/demo1.png)

@@ -72,11 +72,11 @@ export default {
       serverIp: '10.0.251.126',
       vpnTags: [],
       vpnTag: '',
-      vpnLabelApi: 'http://wos.idc.hexun.com:81/get_label/',
-      currentApi: 'http://wos.idc.hexun.com:81/current/',
-      currentDetailApi: 'http://wos.idc.hexun.com:81/current/detail/',
-      historyApi: 'http://wos.idc.hexun.com:81/history/',
-      historyDetailApi: 'http://wos.idc.hexun.com:81/history/detail/'
+      vpnLabelApi: 'http://wos.idc.com/get_label/',
+      currentApi: 'http://wos.idc.com/current/',
+      currentDetailApi: 'http://wos.idc.com/current/detail/',
+      historyApi: 'http://wos.idc.com/history/',
+      historyDetailApi: 'http://wos.idc.com/history/detail/'
     }
   },
   created: function () {
