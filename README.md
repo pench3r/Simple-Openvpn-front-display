@@ -49,6 +49,6 @@ src/App.vue
       historyApi: 'http://wos.idc.com/history/',
       historyDetailApi: 'http://wos.idc.com/history/detail/'
 
-screenshot:
+#### screenshot: ####
 
 ![openvpn](https://github.com/pench3r/Simple-Openvpn-front-display/blob/master/demo1.png)
