@@ -7,13 +7,18 @@ Simple front-end display
 
 #### 项目初始构建：####
 
-// 安装 vue-cli
-  $ npm install --global vue-cli
-// 使用 "webpack" 模板创建一个新项目
-  $ vue init webpack my-project
-// 安装依赖，然后开始！
-  $ cd my-project
-  $ npm run dev
+安装 vue-cli
+
+    $ npm install --global vue-cli
+
+使用 "webpack" 模板创建一个新项目
+
+    $ vue init webpack my-project
+
+安装依赖，然后开始！
+  
+    $ cd my-project
+    $ npm run dev
 
 #### 后端API: ####
 
