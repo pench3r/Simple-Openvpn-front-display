@@ -43,13 +43,13 @@ Simple front-end display
 
 通过label和ip获取指定的历史连接信息，参数ip、label:
 
-	http://wos.idc.hexun.com:81/history/10.0.251.126_vpncms
+	http://wos.idc.com:81/history/10.0.251.126_vpncms
 
 	{"data": [{"id": "c2b5316404ede6822b5f04c8a6f91878", "private_ip": "10.101.0.6", "public_ip": "111.199.189.112:8815", "time_stamp": "2018-05-10 12:41:49", "user_name": "zhangsan", "vpn_tag": "vpncms"}]}
 
 获取历史连接期间的内网连接信息，参数ip、label、name、private_ip、time-stamp：
 
-	http://wos.idc.hexun.com:81/history/detail/10.0.251.126_vpnbjtj/zhangsan/10.8.0.34/2018-05-10%2011:12:01
+	http://wos.idc.com:81/history/detail/10.0.251.126_vpnbjtj/zhangsan/10.8.0.34/2018-05-10%2011:12:01
 
 	{"data": [{"dst_ip": "tcp 10.199.8.1:443", "time_stamp": "Thu, 10 May 2018 12:18:26 GMT"}]}
 
